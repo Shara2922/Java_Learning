@@ -15,3 +15,14 @@ The only difference is that it does not insert a new line at the end of the outp
 
 System.out.print("Hello World! ");
 System.out.print("I will print on the same line.");
+
+// This will print text without moving to a new line
+System.out.print("Welcome to Java! ");
+System.out.print("Let's learn together.");
+
+// This will print text and move to a new line
+System.out.println();
+System.out.println("This is a new line after print statements.");
+
+// Another println example
+System.out.println("Java is fun!");
