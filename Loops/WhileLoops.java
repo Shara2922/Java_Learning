@@ -1,3 +1,5 @@
+// 1
+
 public class WhileLoopExample {
     public static void main(String[] args) {
         // Print even numbers from 2 to 20
@@ -10,6 +12,8 @@ public class WhileLoopExample {
 }
 
 import java.util.Scanner;
+
+//2
 
 public class WhileLoopExample {
     public static void main(String[] args) {
