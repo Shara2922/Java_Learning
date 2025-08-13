@@ -8,8 +8,9 @@ public class IfElseifElse {
 	public static void main(String[] args) {
 		 
 		System.out.println("What is the light color?");
-		Scanner ui= new Scanner(System.in);
+		Scanner ui = new Scanner(System.in);
 		String color = ui.nextLine();
+        ui.close();
 	    
 		if(color.equalsIgnoreCase("red")) {
 			System.out.println("Stop the car!");
