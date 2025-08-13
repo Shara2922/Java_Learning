@@ -1,6 +1,6 @@
 // In the previous chapter, we created a Java file called Main.java, 
 // and we used the following code to print "Hello World" to the screen:
-public class Main { //The class name should always start with an uppercase. ex: class Main.
+public class syntax { //The class name should always start with an uppercase. ex: class Main.
   public static void main(String[] args) {
     System.out.println("Hello World");
   }

@@ -1,5 +1,6 @@
 package Conditions;
 
+
 import java.util.Scanner;
 
 public class IfElseifElse {
@@ -36,4 +37,3 @@ public class IfElseifElse {
 	}
 
 }
-
