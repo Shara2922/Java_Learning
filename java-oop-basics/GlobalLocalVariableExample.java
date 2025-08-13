@@ -1,6 +1,6 @@
-// ✅ GLOBAL vs LOCAL VARIABLES
+// GLOBAL vs LOCAL VARIABLES
 
-public class ScoreManager {
+public class GlobalLocalVariableExample {
     // Global (instance) variable: accessible throughout the class
     int score = 0;
 
@@ -13,7 +13,7 @@ public class ScoreManager {
     }
 
     public static void main(String[] args) {
-        ScoreManager manager = new ScoreManager();
+        GlobalLocalVariableExample manager = new GlobalLocalVariableExample();
         manager.increaseScore();
     }
 }

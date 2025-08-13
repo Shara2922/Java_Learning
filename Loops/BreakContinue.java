@@ -1,4 +1,4 @@
-public class BreakContinueExample {
+public class BreakContinue {
     public static void main(String[] args) {
         // Print numbers from 1 to 10, skip 5, stop at 8
         for (int i = 1; i <= 10; i++) {

@@ -1,4 +1,4 @@
-// ✅ ENCAPSULATION
+// ENCAPSULATION
 
 // Encapsulation hides internal data using private variables and provides access via public methods.
 

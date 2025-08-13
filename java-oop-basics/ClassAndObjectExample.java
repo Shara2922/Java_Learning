@@ -3,7 +3,7 @@
 // A class is a blueprint for objects.
 // An object is an instance of a class.
 
-public class Student {
+public class ClassAndObjectExample {
     // These are fields (also known as global or instance variables)
     String name;
     int age;
@@ -16,7 +16,7 @@ public class Student {
 
     public static void main(String[] args) {
         // Creating an object of Student
-        Student s1 = new Student();
+        ClassAndObjectExample s1 = new ClassAndObjectExample();
         s1.name = "Shara";
         s1.age = 20;
 

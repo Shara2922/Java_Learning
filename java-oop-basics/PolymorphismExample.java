@@ -1,4 +1,4 @@
-// ✅ POLYMORPHISM
+// POLYMORPHISM
 
 // One method behaves differently depending on the object type.
 
