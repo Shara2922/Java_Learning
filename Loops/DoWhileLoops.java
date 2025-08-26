@@ -14,5 +14,7 @@ public class DoWhileLoops {
         } while (!input.equalsIgnoreCase("exit"));
 
         System.out.println("Exited loop.");
+
+        scanner.close();
     }
 }

@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class WhileLoops{
-    
+public class WhileLoops {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = 0;
@@ -14,10 +13,11 @@ public class WhileLoops{
         }
 
         System.out.println("Loop ended. You entered a number greater than 100.");
-    }
-}
 
-    public static void test (String[] args) {
+        scanner.close(); // ✅ close scanner
+    }
+
+    public static void test(String[] args) {
         // Print even numbers from 2 to 20
         int number = 2;
         while (number <= 20) {
@@ -25,3 +25,5 @@ public class WhileLoops{
             number += 2;
         }
     }
+}
+
